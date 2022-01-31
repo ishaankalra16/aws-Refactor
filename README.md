@@ -1,6 +1,6 @@
 # Vprofile-Project
 
-A demo application deployed on AWS with the help of Elastic Beanstalk, CloudFront, Route 53, Amazon Certificate Manager, Amazon RDS, Amazon ElastiCache. This project overcomes the limitations of Lift and Shift strategy by moving from Infrastructure as a Service(IaaS) to Platform as a Service(PaaS) and Software as a Service(SaaS). Cloud Managed services such as Amazon RDS, Elasticache, CloudFront, Elastic Beanstalk are used.
+A demo application deployed on AWS with the help of Elastic Beanstalk, CloudFront, Route 53, Amazon Certificate Manager, Amazon RDS, Amazon ElastiCache. This project overcomes the limitations of the Lift and Shift strategy by moving from Infrastructure as a Service(IaaS) to Platform as a Service(PaaS) and Software as a Service(SaaS). Cloud Managed services such as Amazon RDS, Elasticache, CloudFront, Elastic Beanstalk are used.
 
 # Prerequisites
 #
