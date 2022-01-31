@@ -35,15 +35,14 @@ Then look for the file :
 
 # Screenshots
 
-![Screenshot (330)](https://user-images.githubusercontent.com/68735863/151782882-c6da1e9f-d04b-4454-92f1-d4d4ff1f351f.png)
+![Screenshot (330)](https://user-images.githubusercontent.com/68735863/151853553-39ebc9a6-bede-4eb5-8e90-f805dbce7233.png)
 
-![Screenshot (329)](https://user-images.githubusercontent.com/68735863/151782922-d98aead5-6146-4ea1-84aa-e23bf919938c.png)
+![Screenshot (329)](https://user-images.githubusercontent.com/68735863/151853574-6e2985c0-456d-470f-a0ca-a6785221ef75.png)
 
-![Screenshot (325)](https://user-images.githubusercontent.com/68735863/151782963-ecabc7ef-8175-44d1-9464-40a79150e62c.png)
+![Screenshot (325)](https://user-images.githubusercontent.com/68735863/151853600-f666dcbb-8cb6-4686-ada5-4809a5200da2.png)
 
-![Screenshot (326)](https://user-images.githubusercontent.com/68735863/151782982-96d7fe44-0de3-4f8d-83fd-97888f28efbe.png)
+![Screenshot (326)](https://user-images.githubusercontent.com/68735863/151853622-1c5b84da-cb6f-44ff-afb3-24c7aee761b9.png)
 
-![Screenshot (327)](https://user-images.githubusercontent.com/68735863/151783047-101f0eb5-9710-4953-a80c-bf641340c987.png)
+![Screenshot (327)](https://user-images.githubusercontent.com/68735863/151853645-94cc96f3-201b-458c-b883-018f7809fc46.png)
 
-![Screenshot (328)](https://user-images.githubusercontent.com/68735863/151783063-360f3307-c7fa-40e7-8a36-1de49ca47de3.png)
-
+![Screenshot (328)](https://user-images.githubusercontent.com/68735863/151853658-5b0b991a-d9d2-42ed-8194-ad4f6fd79e1e.png)
